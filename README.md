@@ -4,8 +4,8 @@ EN.585.771.81.FA26 @Johns Hopkins
 
 # Questions
 1. Course communication will happen on (check all that apply)
-[ ] The learning management system (courseplus or canvass)
-[ ] Email
+[x] The learning management system (courseplus or canvass)
+[x] Email
 [ ] Slack
 [x] Teams
 [ ] SIS
@@ -30,10 +30,10 @@ EN.585.771.81.FA26 @Johns Hopkins
 
 5. Projects will be submitted via (check all that apply). Note we are asking everyone to submit their GitHub classroom repo links in Canvas since then we don't have to keep track of GitHub usernames:
 [ ] The teams site
-[x] Personal git repos 
+[ ] Personal git repos 
 [ ] Blackboard
 [ ] Courseplus
-[ ] Canvas
+[x] Canvas
 
 6. Major announcements will be made (also on Teams if set up for the class):
 [x] Over email on the learning management system (courseplus or canvass)
