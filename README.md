@@ -4,6 +4,10 @@ EN.585.771.81.FA26 @Johns Hopkins
 
 # Questions
 
+Oranges are orange:
+[x] True
+[ ] False
+
 1. Course communication will happen on (check all that apply)
 [ ] The learning management system (courseplus or canvass)
 [ ] Email
